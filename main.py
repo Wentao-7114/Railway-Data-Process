@@ -6,7 +6,7 @@ import xlrd
 
 # 不带声调的(style=pypinyin.NORMAL)
 # pinyin without tones
-
+#
 # parameter:  string contains Chinese characters
 # return:  pinyin of Chinese characters in the given string
 def pinyin(word):
